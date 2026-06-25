@@ -9,10 +9,13 @@ the rest of the packages used should come with python.
 
 ## The following commands can be used to install these packages
 
-pip install pyaudio
-pip install whisper
-pip install phonemizer tts
-sudo apt install espeak-ng
+`pip install pyaudio`
+
+`pip install whisper`
+
+`pip install phonemizer tts`
+
+`sudo apt install espeak-ng`
 
 ### *Other than this, it's expected that if you're running this program you're using ubuntu. So... if you don't, here are some other ways to install espeak-ng!*
 
