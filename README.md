@@ -8,4 +8,4 @@ This program can be used to create custom voices for speech augmentation, assist
 
 v1 currently only works if you run both programs seperately in the SaveFileJabberbox folder. v2 should be released soon which lerts you use a cosntant loop for things like streams and in person cosplay and voice enhancement. 
 
-v1 or SFjabberbox files are in the %#eb897c% SaveFilejabberbox folder.%% 
+v1 or SFjabberbox files are in the  **SaveFilejabberbox** folder.
