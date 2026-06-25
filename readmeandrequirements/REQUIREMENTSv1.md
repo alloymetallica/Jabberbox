@@ -42,3 +42,6 @@ the rest of the packages used should come with python.
 ## Windows
 
 `winget install -e --id eSpeak-NG.eSpeak-NG`
+
+current problem I've been having is the phonemizer not importing correctly, as well as the TTS.api, i do know that the latter is because numpy has to be a version below 2 to run?? i don't believe i know why this is happening, but rest assured i might just remake this with a different language, so everything should work for the most part. haha :)
+
